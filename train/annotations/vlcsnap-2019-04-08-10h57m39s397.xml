@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>vlcsnap-2019-04-08-10h57m39s397.png</filename>
+	<path>/home/deeplearningcv/darkflow/darkflow-master/train/images/vlcsnap-2019-04-08-10h57m39s397.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>483</ymin>
+			<xmax>122</xmax>
+			<ymax>550</ymax>
+		</bndbox>
+	</object>
+</annotation>

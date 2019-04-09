@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pictures</folder>
+	<filename>vlcsnap-2019-04-08-10h57m02s159.png</filename>
+	<path>C:\Users\thinh\Pictures\vlcsnap-2019-04-08-10h57m02s159.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>129</xmin>
+			<ymin>259</ymin>
+			<xmax>200</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

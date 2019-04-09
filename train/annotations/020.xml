@@ -1,0 +1,50 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>sugarcane 16.jpg</filename>
+	<path>/home/deeplearningcv/darkflow/darkflow-master/train/images/sugarcane 16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>615</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>341</ymin>
+			<xmax>193</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>362</ymin>
+			<xmax>114</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>364</ymin>
+			<xmax>45</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

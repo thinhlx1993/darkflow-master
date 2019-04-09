@@ -1,0 +1,38 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>images (1).jpg</filename>
+	<path>/home/deeplearningcv/darkflow/darkflow-master/train/images/images (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>179</width>
+		<height>281</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>156</ymin>
+			<xmax>147</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>144</ymin>
+			<xmax>99</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

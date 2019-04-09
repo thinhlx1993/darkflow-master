@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>24955050-sugarcane-crop-showing-juicy-ripe-stem-rich-in-sucrose.jpg</filename>
+	<path>/home/deeplearningcv/darkflow/darkflow-master/train/images/24955050-sugarcane-crop-showing-juicy-ripe-stem-rich-in-sucrose.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>713</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cane eye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>601</ymin>
+			<xmax>527</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+</annotation>
