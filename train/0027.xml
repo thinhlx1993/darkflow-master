@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>0027.jpg</filename>
+	<path>/home/deeplearningcv/darkflow/darkflow-master/train/images/0027.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>174</width>
+		<height>290</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>London Underground</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>7</ymin>
+			<xmax>169</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>
